@@ -1,4 +1,4 @@
 # Portfolio
 
-A simple and an elegant website built to display my technical and soft skills.
+A simple and elegant website built to give an overview of my technical and soft skills.
 
